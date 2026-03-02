@@ -68,4 +68,5 @@ Pusher image sur Dockerhub
 
 
 ## Publication 
-Vous pouvez faire le  pull : docker pull hannasva/app_trust:v0
+Vous pouvez télécharger l'image via ce lien : 
+https://hub.docker.com/r/hannasva/app_trust/tags
